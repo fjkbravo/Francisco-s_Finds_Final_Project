@@ -18,6 +18,10 @@ nav {
     text-align: center;
     font-size: 70px;
     font-weight: bold;
+    background-color:#000000df;
+    position: sticky;
+  top: 0;
+  z-index: 999;
 }
 a {
     text-decoration: none;
