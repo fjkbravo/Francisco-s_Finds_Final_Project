@@ -1,4 +1,78 @@
 body {
-    background: blue;
-  }
-  
+    background: rgb(124, 124, 124);
+    font-family: Verdana, Tahoma, sans-serif
+}
+  h2 {
+    display: none;
+}
+nav {
+    
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+}
+a {
+    text-decoration: none;
+    color: #fff;
+}
+a:hover{
+    color:blueviolet;
+
+}
+h1 {
+    text-align:center;
+}
+#intro {
+    text-align:center;
+    font-size: 22px;
+} 
+#ocoopa {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+#goughnuts{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+#find1 {
+    font-size: 20px;
+    color:brown;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:black;
+    text-align: center;
+    font-style:italic;
+    font-weight:bold;
+
+}
+#find123topLink {
+    font-size: 30px;
+    text-align:center;
+}
+#find2{
+    font-size: 20px;
+    color:brown;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:black;
+    text-align: center;
+    font-style:italic;
+    font-weight:bold;
+}
+#find3{
+    font-size: 20px;
+    color:brown;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:black;
+    text-align: center;
+    font-style:italic;
+    font-weight:bold;
+}
+#sockDock {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
