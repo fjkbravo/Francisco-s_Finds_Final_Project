@@ -1,8 +1,14 @@
 body {
     background-image: url(https://bitsum.com/wp-content/uploads/dark-background-images-5561-5821-hd-wallpapers.jpg);
+    background-attachment: fixed;
     font-family: Verdana, Tahoma, sans-serif;
     word-wrap: break-word;
-    color:#fff
+    color:#fff;
+    max-width: 75%; 
+	margin: 0 auto !important; 
+	float: none !important;
+    line-height: 2;
+    
 }
   h2 {
     display: none;
@@ -23,6 +29,11 @@ a:hover{
 }
 h1 {
     text-align:center;
+}
+p{
+    background-color:#1a1a1a8d;
+    font-family: Arial, sans-serif;
+    font-size: 22px;
 }
 #intro {
     text-align:center;
