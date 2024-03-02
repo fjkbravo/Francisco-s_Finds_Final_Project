@@ -1,6 +1,8 @@
 body {
-    background: rgb(124, 124, 124);
-    font-family: Verdana, Tahoma, sans-serif
+    background-image: url(https://bitsum.com/wp-content/uploads/dark-background-images-5561-5821-hd-wallpapers.jpg);
+    font-family: Verdana, Tahoma, sans-serif;
+    word-wrap: break-word;
+    color:#fff
 }
   h2 {
     display: none;
@@ -13,10 +15,10 @@ nav {
 }
 a {
     text-decoration: none;
-    color: #fff;
+    color:rgb(54, 90, 208);
 }
 a:hover{
-    color:blueviolet;
+    color:blue;
 
 }
 h1 {
